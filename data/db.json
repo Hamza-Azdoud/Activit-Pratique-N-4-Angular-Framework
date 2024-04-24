@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "t-shirt",
+      "price": 4512,
+      "checked": true
+    },
+    {
+      "id": "2",
+      "name": "short",
+      "price": 1535,
+      "checked": false
+    },
+    {
+      "id": "3",
+      "name": "jacket",
+      "price": 2600,
+      "checked": false
+    },
+    {
+      "id": "3",
+      "name": "jacket",
+      "price": 2600,
+      "checked": false
+    }
+  ]
+}
